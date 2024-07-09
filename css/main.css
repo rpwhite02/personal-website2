@@ -12,8 +12,12 @@ body {
     border-radius: 25px;
 }
 
-#callout {
-    border: 1px solid #bfbfbf;
-    border-radius: 15px;
-    padding: 0.5rem;
+.project {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin: 10px;
+}
+
+.project-img {
+    max-width: 100%;
 }

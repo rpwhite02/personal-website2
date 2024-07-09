@@ -1,0 +1,22 @@
+[
+    {
+        "name": "LinkedIn",
+        "link": "https://example.com/project-one",
+        "logo": "path/to/project-one-image.jpg",
+    },
+    {
+        "name": "Gmail",
+        "link": "https://example.com/project-two",
+        "logo": "path/to/project-one-image.jpg",
+    },
+    {
+        "name": "Project Three",
+        "link": "https://example.com/project-three",
+        "logo": "path/to/project-one-image.jpg",
+    },
+    {
+        "name": "Project Three",
+        "link": "https://example.com/project-three",
+        "logo": "path/to/project-one-image.jpg",
+    }
+]
