@@ -2,11 +2,24 @@ body {
     font-family: Arial, sans-serif;
     background-color: #ffffff;
     padding: 0 1.25rem;
-    max-width: 800px;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+#header {
+    display: flex;
+    align-items: flex-start;
+    
+}
+
+#cover-photo {
+    width: 500px;
+    border-radius: 10px;
+    margin-right: 20px;
 }
 
 .container {
-    margin: 50px auto;
+    margin: 30px auto;
     padding: 1rem;
     background-color: #f5f5f5;
     border-radius: 25px;
@@ -16,6 +29,17 @@ body {
     border: 1px solid #ccc;
     padding: 15px;
     margin: 10px;
+}
+
+.project-link {
+    text-decoration: none;
+    color: #007bff;
+    transition: transform 0.3s ease-in-out;
+}
+
+.project-link:hover {
+    text-decoration: underline;
+    transform: scale(1.1);
 }
 
 .project-img {
@@ -31,10 +55,15 @@ body {
     text-decoration: none;
     display: block;
     text-align: center;
-    color: #333;
-    margin: 20px;
+    color: #007bff;
+    margin: 50px;
+    transition: transform 0.3s ease-in-out;
 }
 
+.icon-link:hover {
+    text-decoration: underline;
+    transform: scale(1.1);
+}
 .platform-name {
     display: block;
     margin-top: 5px;
