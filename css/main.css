@@ -21,3 +21,26 @@ body {
 .project-img {
     max-width: 100%;
 }
+
+.contact {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.icon-link {
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    color: #333;
+    margin: 20px;
+}
+
+.platform-name {
+    display: block;
+    margin-top: 5px;
+    font-size: 14px;
+}
+
+.icon-link img {
+    width: 50px;
+}
