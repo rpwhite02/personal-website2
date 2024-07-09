@@ -9,13 +9,12 @@ body {
 #header {
     display: flex;
     align-items: flex-start;
-    
+    gap: 1rem;
 }
 
 #cover-photo {
     width: 500px;
     border-radius: 10px;
-    margin-right: 20px;
 }
 
 .container {
