@@ -37,10 +37,10 @@ body {
     }
 
     .project {
-        width: 90%;
         border: 1px solid #ccc;
         padding: 15px;
         margin: 10px;
+        border-radius: 25px;
     }
 
 }
@@ -60,6 +60,7 @@ body {
     border: 1px solid #ccc;
     padding: 15px;
     margin: 10px;
+    border-radius: 25px;
 }
 
 .project-link {
